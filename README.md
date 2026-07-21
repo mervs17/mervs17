@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/mervs17"><img src="https://github.com/mervs17/mervs17/blob/main/devcard.svg" width="300" alt="Mervin Reyes's Dev Card"/></a>
+<a href="https://daily.dev/mervs17"><img src="https://api.daily.dev/devcards/v2/GFOvaVW6c.png?type=wide&r=en7" width="652" alt="Mervin Reyes's Dev Card"/></a>
 
 <!--
 **mervs17/mervs17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
